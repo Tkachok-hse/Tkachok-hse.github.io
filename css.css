@@ -176,7 +176,7 @@
 }
 
 .disc1 {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/админка.jpg); background-size: cover; opacity: 0.6; left: 5%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(админка.jpg); background-size: cover; opacity: 0.6; left: 5%; top: 5%;
   border-radius: 30px;
 }
 .disc1:hover{
@@ -187,7 +187,7 @@
 }
 
 .disc2 {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/уголовка.jpg); background-size: cover; opacity: 0.6; left: 36.7%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(уголовка.jpg); background-size: cover; opacity: 0.6; left: 36.7%; top: 5%;
   border-radius: 30px;
 }
 .disc2:hover{
@@ -198,7 +198,7 @@
 }
 
 .disc3 {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/межнарка.jpg); background-size: cover; opacity: 0.6; right:5%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(межнарка.jpg); background-size: cover; opacity: 0.6; right:5%; top: 5%;
   border-radius: 30px;
 }
 .disc3:hover{
@@ -273,7 +273,7 @@
    -webkit-text-stroke-color: black;
 }
 .book1_adminka {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/Админка.Россинский.jpg);  opacity: 0.6; left: 5%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(Админка.Россинский.jpg);  opacity: 0.6; left: 5%; top: 5%;
   border-radius: 30px;
 }
 .book1_adminka:hover{
@@ -283,7 +283,7 @@
   transition: 0.3s ease;
 }
 .book1_criminal {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/УП.Чучаев.jpg);  opacity: 0.6; left: 5%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(УП.Чучаев.jpg);  opacity: 0.6; left: 5%; top: 5%;
   border-radius: 30px;
 }
 .book1_criminal:hover{
@@ -293,7 +293,7 @@
   transition: 0.3s ease;
 }
 .book2_criminal {
-  width: 26.7%; height: 15%; position: absolute; background: url(/Users/anger_banger/Desktop/Выше4ка/Html/УП.Чучаев.jpg);  opacity: 0.6; left: 36.7%; top: 5%;
+  width: 26.7%; height: 15%; position: absolute; background: url(УП.Чучаев.jpg);  opacity: 0.6; left: 36.7%; top: 5%;
   border-radius: 30px;
 }
 .book2_criminal:hover{
